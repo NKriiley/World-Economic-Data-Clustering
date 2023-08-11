@@ -3,11 +3,11 @@ This is a clustering analysis using machine learning to see how each model class
 # Source of the data
 https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023/download?datasetVersionNumber=1
 # Order
-1. Main File with preprocessing data- Country Clustering Based on Global Indicators.ipynb
+1. Main File with preprocessing data- 
 
 2. Hierarchical Clustering-
  
-3. Gaussian Mixture Models (GMM) -
+3. DBSCAN clustering algorithm -
    
 # Tech Stack
 Pandas
