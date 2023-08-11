@@ -5,7 +5,7 @@ https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023/dow
 # Order
 1. Main File with preprocessing data- Country Clustering Based on Global Indicators 1.ipynb
 
-2. Hierarchical Clustering-Hierarchical Clustering 2.ipynb
+2. Hierarchical Clustering- Hierarchical Clustering 2.ipynb
  
 3. DBSCAN clustering algorithm -
    
